@@ -10,7 +10,7 @@ describe('ticketListReducer', () => {
       id: 1
     },
     2: {
-      names: 'Jamen and Jerry',
+      names: 'Jasmine and Justine',
       location: '2a',
       issue: 'Reducer has side effects.',
       id: 2
